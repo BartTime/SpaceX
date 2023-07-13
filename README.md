@@ -6,7 +6,7 @@
 # Технологии
 - UIKit;
 - SnapKit;
-- UserDegaults
+- UserDefaults;
 - Архитектура MVP.
 
 # Основные Экраны
